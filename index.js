@@ -21,6 +21,12 @@ themeButton.addEventListener("click", toggleDarkMode)
 
 
 /*** Form Handling [PLACEHOLDER] [ADDED IN UNIT 6] ***/
+const addParticipant = (event) => {
+  event.preventDefault();
+}
 /*** Form Validation [PLACEHOLDER] [ADDED IN UNIT 7] ***/
+
+
+
 /*** Animations [PLACEHOLDER] [ADDED IN UNIT 8] ***/
 /*** Success Modal [PLACEHOLDER] [ADDED IN UNIT 9] ***/
